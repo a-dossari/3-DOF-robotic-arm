@@ -16,7 +16,6 @@ There is a video of a practical application similar to what I did, which is:
 " target="_blank"><img src="http://img.youtube.com/vi/tXA9O9Wtz64/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
-
 To build the circuit, I used:
 
 - Arduino board.
